@@ -78,4 +78,16 @@ p{
 .map{
     margin:30px;
     padding:20px;
+    
+}
+#imgbck{
+    background-color: blanchedalmond;
+    padding:30px;
+    border-radius: 20px;;
+}
+.img-fluid{
+    border-radius:50px;
+    margin-bottom: 15px;
+    height:200px;
+    width:500px;
 }
